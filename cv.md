@@ -1,6 +1,5 @@
 # VLADIMIR ALBUC
 
-[![sds](https://pbs.twimg.com/profile_images/1548649497978232832/bXpzAH4T_400x400.jpg "sds")](https://pbs.twimg.com/profile_images/1548649497978232832/bXpzAH4T_400x400.jpg "sds")
 ##### Contacts
 - Github: https://github.com/zoids
 - Twitter: https://twitter.com/albukv
