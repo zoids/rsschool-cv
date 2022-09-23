@@ -1,1 +1,1 @@
-# rsschool-cv
+https://zoids.github.io/rsschool-cv/cv
