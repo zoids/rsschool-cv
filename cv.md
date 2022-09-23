@@ -27,4 +27,4 @@ code from codewars
 - [HTML5 and CSS Fundamentals](https://learning.edx.org/course/course-v1:W3Cx+HTML5.0x+3T2017/home "HTML5 and CSS Fundamentals")
 
 ##### English
-- Intermediate B1 
+- Intermediate B1
